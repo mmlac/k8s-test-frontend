@@ -1,3 +1,7 @@
+  triggers {
+    pollSCM('* * * * *')
+  }
+
 node {
     def app
 
