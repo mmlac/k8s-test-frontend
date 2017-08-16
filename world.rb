@@ -19,7 +19,9 @@ loop do
   # Log the request to the console for debugging
   STDERR.puts request
 
-  response = "World"
+  response = "Callidus"
+
+  puts "Responding with #{response}"
 
 
   # We need to include the Content-Type and Content-Length headers
