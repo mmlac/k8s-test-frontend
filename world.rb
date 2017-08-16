@@ -19,7 +19,7 @@ loop do
   # Log the request to the console for debugging
   STDERR.puts request
 
-  response = "World"
+  response = "Callidus"
 
   puts "Responding with #{response}"
 
